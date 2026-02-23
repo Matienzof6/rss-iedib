@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+
+    <title>Noticias oficiales IEDIB</title>
+    <link>https://matienzof6.github.io/rss-iedib/</link>
+    <description>Canal RSS de noticias del IEDIB</description>
+    <language>es-es</language>
+
+    <item>
+      <title>IEDIB abre el periodo de admisión para el curso 2026/2027</title>
+      <description>
+        El IEDIB abre el plazo de admisión del 1 al 20 de marzo de 2026 para estudios a distancia.
+      </description>
+      <link>https://matienzof6.github.io/rss-iedib/noticia1.html</link>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>IEDIB organiza jornada informativa online</title>
+      <description>
+        Jornada informativa virtual para nuevos estudiantes el 18 de febrero de 2026.
+      </description>
+      <link>https://matienzof6.github.io/rss-iedib/noticia2.html</link>
+      <pubDate>Thu, 05 Feb 2026 10:30:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
