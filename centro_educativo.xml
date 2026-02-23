@@ -8,11 +8,24 @@
     <language>es-es</language>
 
     <item>
+      <title>IEDIB publica la oferta formativa 2026/2027</title>
+      <description>
+        El IEDIB presenta su nueva oferta formativa con ampliación de ciclos de Formación Profesional.
+      </description>
+      <link>https://matienzof6.github.io/rss-iedib/noticia3.html</link>
+      <author>comunicacion@iedib.net (Departamento de Comunicación IEDIB)</author>
+      <category>Formación Profesional</category>
+      <pubDate>Mon, 16 Feb 2026 08:30:00 +0100</pubDate>
+    </item>
+
+    <item>
       <title>IEDIB abre el periodo de admisión para el curso 2026/2027</title>
       <description>
         El IEDIB abre el plazo de admisión del 1 al 20 de marzo de 2026 para estudios a distancia.
       </description>
       <link>https://matienzof6.github.io/rss-iedib/noticia1.html</link>
+      <author>secretaria@iedib.net (Secretaría IEDIB)</author>
+      <category>Admisiones</category>
       <pubDate>Thu, 12 Feb 2026 09:00:00 +0100</pubDate>
     </item>
 
@@ -22,6 +35,8 @@
         Jornada informativa virtual para nuevos estudiantes el 18 de febrero de 2026.
       </description>
       <link>https://matienzof6.github.io/rss-iedib/noticia2.html</link>
+      <author>comunicacion@iedib.net (Departamento de Comunicación IEDIB)</author>
+      <category>Eventos</category>
       <pubDate>Thu, 05 Feb 2026 10:30:00 +0100</pubDate>
     </item>
 
